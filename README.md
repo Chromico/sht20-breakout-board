@@ -1,5 +1,7 @@
 # SHT20 breakout board
-An open source breakout board for the SHT20 temperature and humidity sensor. The board is 10x10 mm making it compact and easy to use on a breadboard without taking up much space.
+An open source temperature and humidity sensor breakout board based on the SHT20 sensor from Sensirion. The board is only 10x10mm making it ideal for compact spaces/projects that need a decent temperature and humidity sensor. 
+
+![picture](https://github.com/Chromico/sht20-breakout-board/blob/main/images/banner.png)
 
 My website: https://tecknologg.website
 
@@ -7,29 +9,25 @@ My website: https://tecknologg.website
 # Front 
 
 
-![picture]()
+![picture](https://github.com/Chromico/sht20-breakout-board/blob/main/images/front.jpg)
 
 
 # Back
 
 
-![picture]()
+![picture](https://github.com/Chromico/sht20-breakout-board/blob/main/images/back.jpg)
 
-
-# Assembled board
-
-
-![picture]()
 
 
 # SHT20 breakout board next to a 20 Mauritian cent coin
 
 
-![picture]()
+![picture](https://github.com/Chromico/sht20-breakout-board/blob/main/images/board_coin.jpg)
 
 
 # Documentation
-Pending
+
+You can get the official documentation here: https://github.com/Chromico/sht20-breakout-board/blob/main/documentation/SHT20%20Temperature%20and%20Humidity%20Sensor%20Breakout%20Board%20Documentation.pdf
 
 # Certification
 Pending
