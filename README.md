@@ -30,7 +30,7 @@ My website: https://tecknologg.website
 You can get the official documentation here: https://github.com/Chromico/sht20-breakout-board/blob/main/documentation/SHT20%20Temperature%20and%20Humidity%20Sensor%20Breakout%20Board%20Documentation.pdf
 
 # Certification
-Pending
+![picture](https://github.com/Chromico/sht20-breakout-board/blob/main/images/oshwa-MU000003.png)
 
 
 # Contact
